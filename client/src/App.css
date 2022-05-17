@@ -1,0 +1,29 @@
+.slick-slider .slick-slide {
+  padding: 0 15px;
+}
+
+.roundedAchievement{
+  max-width: 300px;
+  max-height: 200px;
+  height: 300px;
+  width: 300px;
+}
+
+.circle{
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  line-height: 100px;
+  margin-bottom: 20px;
+  border-radius: 50%;
+  border: 1px solid #000;
+  font-weight: bold;
+  font-size: 30px;
+}
+
+.changeStatusBtn{
+  position: absolute;
+  right: 5px;
+  top: 5px;
+  border: none;
+}
